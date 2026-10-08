@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Torque Resume</string>
+    <string name="accessibility_description">最近使ったアプリ画面を表示します</string>
+</resources>
